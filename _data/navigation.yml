@@ -10,6 +10,9 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Pub-Qu"
+    url: /Pub-Qu/
 
   - title: "Talks"
     url: /talks/    
