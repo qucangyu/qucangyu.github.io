@@ -6,14 +6,7 @@ redirect_from:
   - /nmp/
   - /nmp.html
 ---
-  <style>
-  details summary {
-    font-size: 0.85em;
-    line-height: 0.9;
-    margin-top: 0.1em;
-    margin-bottom: 0.1em;
-  }
-  </style>
+
 
 <div style="margin-left: 2em;" markdown="1">
   <p>
