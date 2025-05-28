@@ -9,7 +9,13 @@ redirect_from:
 Publications organized by research topics
 : You can also find them on [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
 
-<div style="line-height: 1.2;" markdown="1">
+details summary {
+  font-size: 0.95em;
+  line-height: 1.2;
+  margin-bottom: 0.2em;
+}
+
+<div style="line-height: 1.3;" markdown="1">
   <h2>Mechanochemistry</h2>
   Cangyu Qu, Lu Fang, Robert W. Carpick<sup>*</sup>. **Contact Mechanics Correction of Activation Volumes in Mechanochemistry**. _Phys. Rev. B_ 111, 195405 (2025) | [paper link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
   <details>
