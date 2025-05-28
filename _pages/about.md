@@ -1,5 +1,3 @@
-<div style="margin-left: 2em;" markdown="1">
-
 ---
 permalink: /
 title: "About me"
@@ -9,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<div style="margin-left: 2em; margin-right: 2em" markdown="1">
 
 I am a postdoctoral researcher in xxxx
 
