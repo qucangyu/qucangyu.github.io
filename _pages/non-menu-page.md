@@ -9,8 +9,8 @@ redirect_from:
 
 <div style="width: 100%; line-height: 1.3; margin-left: 2em; margin-right: 0em; margin-bottom: 0.2em; text-align: justify" markdown="1">
 
-  Publications organized by topics
-  : You can also find them on [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
+  <h1>Publication Highlights by Topic</h1>
+  You can also find them on [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
 
   <h2 style="color: #910f0f">Mechanochemistry</h2>
   
@@ -126,6 +126,8 @@ redirect_from:
     <img src="/images/pick-n-flip.png" alt="tit" width="250" style="display: block; margin: 0.4em auto;" />
   </details>
 
+
+<h1>Complete Publication List</h1>
 
 </div>
 
