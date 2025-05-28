@@ -11,8 +11,9 @@ Publications organized by research topics
 
 <style>
 details summary {
-  font-size: 0.75em;
+  font-size: 0.85em;
   line-height: 0.9;
+  margin-top: 0.1em;
   margin-bottom: 0.1em;
 }
 </style>
