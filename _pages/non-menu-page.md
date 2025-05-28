@@ -19,7 +19,7 @@ Publications organized by research topics
 
   This work did this did that xxx.
 
-  ![tit](/images/bio-photo-2.jpg)
+  <img src="/images/bio-photo-2.jpg" alt="tit" width="400" />
 
 </details>
 <br>
