@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /Pub-Qu/
+permalink: /Pub/
 title: "Publications"
 author_profile: true
 redirect_from: 
-  - /Pub-Qu/
-  - /Pub-Qu.html
+  - /Pub/
+  - /Pub.html
 ---
