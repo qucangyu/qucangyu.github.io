@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Cangyu Qu / Research Website"
+title                    : "Cangyu Qu / Home"
 title_separator          : "-"
 name                     : &name "Cangyu Qu"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "Weixin Image_20250526164046.png"
   name             : "Cangyu Qu"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc, Department of Mechanical Engineering and Applied Mechanics"
+  bio              : "Postdoc | Department of Mechanical Engineering and Applied Mechanics"
   location         : # "Philadelphia"
   employer         : "University of Pennsylvania"
   uri              : # URL
