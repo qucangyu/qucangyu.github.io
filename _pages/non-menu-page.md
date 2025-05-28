@@ -26,14 +26,14 @@ redirect_from:
     </p>
     <img src="/images/bio-photo-2.jpg" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
   </details>
- # <br>
+
 
 
   <h2 style="color: #910f0f">Nanomechanics & 2D materials</h2>
 
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
-  Luc N. Capaldi, Li Yuan, Cangyu Qu, Daniel A. Sánchez, Robert W. Carpick<sup>*</sup>, Ottman A. Tertuliano<sup>*</sup>. **High-Throughput Formation of 3D van der Waals Auto-Kirigami**. _Nano Lett._ 25(11), 3964 (2025) | [paper link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c06637)
+  Luc N. Capaldi, Li Yuan, Cangyu Qu, Daniel A. Sánchez, Robert W. Carpick<sup>*</sup>, Ottman A. Tertuliano<sup>*</sup>. **High-Throughput Formation of 3D van der Waals Auto-Kirigami**. _Nano Lett._ 25(11), 3964 (2025) | [paper link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c06637) | [Penn Engineering Today](https://blog.seas.upenn.edu/knowing-when-to-bend-or-break-penn-engineers-examine-the-fracture-mechanics-of-3d-graphene-structures/)
   </p>
   <details style="font-size: 0.9em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
@@ -42,7 +42,7 @@ redirect_from:
     </p>
     <img src="/images/LucNL.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
   </details>
- # <br>
+
 
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
@@ -55,7 +55,7 @@ redirect_from:
     </p>
     <img src="/images/LucNL.png" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
   </details>
- # <br>
+
 
  
   
