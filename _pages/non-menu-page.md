@@ -11,10 +11,11 @@ Publications organized by research topics
 
 ## Mechanochemistry
 <details>
-  <summary> Contact Mechanics Correction of Activation Volumes in Mechanochemistry | [paper link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
-: Cangyu Qu, Lu Fang, Robert W. Carpick<sup>*</sup> _Phys. Rev. B_ 111, 195405 (2025)
+  <summary> Contact Mechanics Correction of Activation Volumes in Mechanochemistry
 </summary>
-  This work xxx.
+  Cangyu Qu, Lu Fang, Robert W. Carpick<sup>*</sup> _Phys. Rev. B_ 111, 195405 (2025)
+  This work did this did that xxx.
+  [paper link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
 </details>
 
 
