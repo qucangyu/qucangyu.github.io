@@ -3,6 +3,7 @@ title: "Contact mechanics correction of activation volume in mechanochemistry"
 collection: publications
 category: Mechanochemistry
 permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-05-05
 paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405'
 citation: 'Cangyu Qu, Lu Fang, Robert W. Carpick*. (2025).  <i>Phys. Rev. B</i>. 12113(1311).'
