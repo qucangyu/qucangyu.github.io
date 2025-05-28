@@ -22,9 +22,9 @@ redirect_from:
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.9em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
-      This work did this did that xxx.
+      When surfaces rub together, they can trigger chemical reactions—an effect termed mechanochemistry and is widely used in engines, manufacturing, and emerging methods for sustainable chemical synthesis. But quantitatively measuring how mechanical forces drive these reactions has been surprisingly inconsistent. Our research reveals that hidden mechanical factors can distort these measurements, and we developed a correction model to resolve this, helping scientists better understand and control these force-driven reactions.
     </p>
-    <img src="/images/bio-photo-2.jpg" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/CMCAV.jpg" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
