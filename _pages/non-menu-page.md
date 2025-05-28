@@ -35,7 +35,7 @@ redirect_from:
 
   Luc N. Capaldi, Li Yuan, Cangyu Qu, Daniel A. Sánchez, Robert W. Carpick<sup>*</sup>, Ottman A. Tertuliano<sup>*</sup>. **High-Throughput Formation of 3D van der Waals Auto-Kirigami**. _Nano Lett._ 25(11), 3964 (2025) | [paper link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c06637) | [Penn Engineering Today](https://blog.seas.upenn.edu/knowing-when-to-bend-or-break-penn-engineers-examine-the-fracture-mechanics-of-3d-graphene-structures/)
   </p>
-  <details style="border-left: 4px solid #007acc; background: #f0f8ff; padding: 0.8em 1em; font-size: 0.9em;">
+  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.9em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
       This study introduces a novel, high-throughput method to create three-dimensional structures from two-dimensional materials like graphene. By leveraging a process called "auto-kirigami," we create fold and fracture of 2D materials into intricate 3D shapes without manual intervention. This advancement opens new avenues for designing flexible and responsive nanoscale devices.
