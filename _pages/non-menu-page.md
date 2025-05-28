@@ -14,6 +14,7 @@ redirect_from:
 
   <h2 style="color: #910f0f">Mechanochemistry</h2>
   
+  <p style='margin-bottom: 0.2em; font-size: 1em;'>
   Cangyu Qu, Lu Fang, Robert W. Carpick<sup>*</sup>. **Contact Mechanics Correction of Activation Volumes in Mechanochemistry**. _Phys. Rev. B_ 111, 195405 (2025) | [paper link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
   <details style="font-size: 0.9em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
@@ -22,6 +23,7 @@ redirect_from:
     </p>
     <img src="/images/bio-photo-2.jpg" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
   </details>
+  </p>
   <br>
 
   <h2 style="color: #910f0f">Nanomechanics & 2D materials</h2>
