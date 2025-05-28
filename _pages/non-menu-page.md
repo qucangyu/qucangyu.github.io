@@ -17,6 +17,7 @@ redirect_from:
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
   Cangyu Qu, Lu Fang, Robert W. Carpick<sup>*</sup>. **Contact Mechanics Correction of Activation Volumes in Mechanochemistry**. _Phys. Rev. B_ 111, 195405 (2025) | [paper link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
+  </p>
 
   <details style="font-size: 0.9em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
@@ -27,7 +28,7 @@ redirect_from:
   </details>
   <br>
 
-  </p>
+ 
   
 
   <h2 style="color: #910f0f">Nanomechanics & 2D materials</h2>
@@ -35,7 +36,7 @@ redirect_from:
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
   Luc N. Capaldi, Li Yuan, Cangyu Qu, Daniel A. Sánchez, Robert W. Carpick<sup>*</sup>, Ottman A. Tertuliano<sup>*</sup>. **High-Throughput Formation of 3D van der Waals Auto-Kirigami**. _Nano Lett._ 25(11), 3964 (2025) | [paper link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c06637)
-
+  </p>
   <details style="font-size: 0.9em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
@@ -44,9 +45,11 @@ redirect_from:
     <img src="/images/LucNL.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
   </details>
   <br>
+  
+  <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
   Cangyu Qu<sup>*</sup>, Diwei Shi, Li Chen, Zhanghui Wu, Jin Wang, Songlin Shi, Enlai Gao, Zhiping Xu, Quanshui Zheng<sup>*</sup>. **Anisotropic Fracture of Graphene Revealed by Surface Steps on Graphite**. _Phys. Rev. Lett_ 129, 026101 (2022) | [paper link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.026101)
-
+  </p>
   <details style="font-size: 0.9em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
@@ -56,7 +59,7 @@ redirect_from:
   </details>
   <br>
 
-  </p>
+ 
   
 
 
