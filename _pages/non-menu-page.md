@@ -9,10 +9,10 @@ redirect_from:
 
 <div style="line-height: 1.3; margin-left: 2em; margin-right: 2em; margin-bottom: 0.3em" markdown="1">
 
-<p>
+
   Publications organized by topics
   : You can also find them on [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
-</p>
+
 
   <h2 style="color: #910f0f">Mechanochemistry</h2>
 
