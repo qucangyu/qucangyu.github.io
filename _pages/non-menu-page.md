@@ -51,9 +51,9 @@ redirect_from:
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.9em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
-      Graphene, a one-atom-thick sheet of carbon atoms, is renowned for its exceptional strength. But its resistance to fracture isn't uniform in all directions. By examining the atomic steps formed on graphite surfaces, we show that graphene  tend to crack more easily along certain orientations. This directional dependence, known as anisotropic fracture, is crucial for the functioning of graphene-based devices and relevant to a unique toughening mechanism in 2D materials.
+      Graphene, a one-atom-thick sheet of carbon atoms, is renowned for its exceptional strength. But its resistance to fracture isn't uniform in all directions. By examining the atomic steps formed on graphite surfaces, we show that graphene tend to crack more easily along certain orientations. This directional dependence, known as anisotropic fracture, is crucial for the functioning of graphene-based devices and relevant to a unique toughening mechanism in 2D materials.
     </p>
-    <img src="/images/LucNL.png" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/aniso.png" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
