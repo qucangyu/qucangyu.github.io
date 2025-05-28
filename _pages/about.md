@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="width: 100%; margin-left: 2em; margin-right: 2em" markdown="1">
+<div style="width: 100%; margin-left: 2em; margin-right: 2em; text-align: justify" markdown="1">
 
 I am a postdoctoral researcher in the Department of Mechanical Engineering and Applied Mechanics at the University of Pennsylvania. Before joining UPenn, I earned my PhD degree in Tsinghua University and worked as aresearch associate at Research Institute xxxx
 
