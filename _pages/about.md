@@ -7,13 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-<div style="margin-left: 2em; margin-right: 2em" markdown="1">
+<div style="width: 100%; margin-left: 2em; margin-right: 2em" markdown="1">
 
-I am a postdoctoral researcher in xxxx
+I am a postdoctoral researcher in the Department of Mechanical Engineering and Applied Mechanics at the University of Pennsylvania. Before joining UPenn, I earned my PhD degree in Tsinghua University and worked as aresearch associate at Research Institute xxxx
 
 My research aims to xxxxxx
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) 
+I use nanomechanics experimental tools ...
+
+
+<h2 style="color: #910f0f">Education</h2>
+- Ph.D. in Mechanics, Tsinghua University (2013-2019)
+  - Visiting student at University of Pennsylvania (2018.4-2018.10)
+- B.S. in Engineering Mechanics, Tsinghua University (2009-2013)
+  - Visiting student at Harvard University (2012.8-2013.2)
+  ddddsdsfssf
+
+from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) 
 
 ## This is "##" size header
 Like many otherthe [GitHub pages](https://pages.github.com/) 

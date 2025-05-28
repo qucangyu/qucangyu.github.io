@@ -49,5 +49,3 @@ redirect_from:
 
 </div>
 
-
-<p style="line-height: 100%;"> test </p>
