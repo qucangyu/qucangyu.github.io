@@ -97,7 +97,7 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       This study introduces a "micro-dome" technique to slide and study submillimeter-scale graphite contacts for exploring superlubricity—a state of near-zero friction. The method enables access to much larger (x2500) interfaces than previously possible and reveals structural features that limit frictionless motion, offering insights and experimental tools for for scaling superlubricity up in layered materials.
     </p>
-    <img src="/images/microdome.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/microdome.png" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
