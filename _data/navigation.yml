@@ -30,7 +30,7 @@ main:
     url: /files/CV_Cangyu Qu.pdf
     
   - title: "CV-jsn"
-     url: /cv-json/
+    url: /cv-json/
     
   - title: "Guide"
     url: /markdown/
