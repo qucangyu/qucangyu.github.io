@@ -66,13 +66,25 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       Friction on graphene-coated copper decreases with repeated sliding, without damaging the graphene. This running-in effect stems from hardening of the copper beneath. This study showcases the excellent anti-wear performance of graphene as a mechanically robust, atomically-thin coating.
     </p>
-    <img src="/images/wear-free.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/wear-free.png" alt="tit" width="300" style="display: block; margin: 0.4em auto;" />
   </details>
   
 
 
   <h2 style="color: #910f0f; margin-bottom: 1em">Superlubricity</h2>
   <h3><em>Novel phenomena in superlubricity</em></h3>
+  <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
+
+  Cangyu Qu, Songlin Shi, Ming Ma, Quanshui Zheng<sup>*</sup>. **Rotational Instability in Superlubric Joints**. _Phys. Rev. Lett._ 122(24), 246101 (2019)| [paper link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.246101) | [Highlighted by Nature Materials](https://www.nature.com/articles/s41563-019-0450-0)
+  </p>
+  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.9em;">
+    <summary style="font-size: 1em;"><strong> Summary</strong></summary>
+    <p style="margin-bottom: 0.4em">
+      Instabilities driven by surface energy are common in liquids but rare in solids. However, we uncovers such an instability in superlubric 2D materials: a sliding graphite flake suddenly transitions from straight to rotating motion driven by energy minimization. The effect highlights how surface energy can govern solid mechanics in superlubric systems, offering insights for controlling motion in nanoscale devices.
+    </p>
+    <img src="/images/rotational-instability.png" alt="tit" width="300" style="display: block; margin: 0.4em auto;" />
+  </details>
+
 
 
   <h3><em>Fundamental mechanisms of superlubricity</em></h3>
