@@ -1,11 +1,12 @@
 ---
-permalink: /
+layout: archive
+permalink: /Pub-Qu/
 title: "Publications"
 author_profile: true
 redirect_from: 
-  - /Pub-Qu/
-  - /Pub-Qu.html
+  - /Pub-Qu
 ---
+
 I am a postdoctoral researcher in xxxx
 
 My research aims to xxxxxx
