@@ -6,11 +6,6 @@ redirect_from:
   - /nmp/
   - /nmp.html
 ---
-<div style="margin-left: 2em;">
-
-  Publications organized by topics
-  : You can also find them on [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
-
   <style>
   details summary {
     font-size: 0.85em;
@@ -19,6 +14,10 @@ redirect_from:
     margin-bottom: 0.1em;
   }
   </style>
+
+<div style="margin-left: 2em;">
+  Publications organized by topics
+  : You can also find them on [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
 
   <div style="line-height: 1.3; margin-bottom: 0.3em" markdown="1">
     <h2 style="color: #910f0f">Mechanochemistry</h2>
