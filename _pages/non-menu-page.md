@@ -24,7 +24,7 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       When surfaces rub together, they can trigger chemical reactions—an effect termed mechanochemistry and is widely used in engines, manufacturing, and emerging methods for sustainable chemical synthesis. But quantitatively measuring how mechanical forces drive these reactions has been surprisingly inconsistent. Our research reveals that hidden mechanical factors can distort these measurements, and we developed a correction model to resolve this, helping scientists better understand and control these force-driven reactions.
     </p>
-    <img src="/images/CMCAV.jpg" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/CMCAV.jpg" alt="tit" width="380" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
@@ -40,7 +40,7 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       This study introduces a novel, high-throughput method to create three-dimensional structures from two-dimensional materials like graphene. By leveraging a process called "auto-kirigami," we create fold and fracture of 2D materials into intricate 3D shapes without manual intervention. This advancement opens new avenues for designing flexible and responsive nanoscale devices.
     </p>
-    <img src="/images/LucNL.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/LucNL.png" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
@@ -53,7 +53,7 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       Graphene, a one-atom-thick sheet of carbon atoms, is renowned for its exceptional strength. But its resistance to fracture isn't uniform in all directions. By examining the atomic steps formed on graphite surfaces, we show that graphene tend to crack more easily along certain orientations. This directional dependence, known as anisotropic fracture, is crucial for the functioning of graphene-based devices and relevant to a unique toughening mechanism in 2D materials.
     </p>
-    <img src="/images/aniso.png" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/aniso.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
