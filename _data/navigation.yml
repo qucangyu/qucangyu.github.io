@@ -11,8 +11,8 @@ main:
   - title: "Research"
     url: /publications/
     
-#  - title: "Publications"
-#    url: /nmp/
+  - title: "Research-2"
+    url: /nmp/
 
   - title: "Talks"
     url: /talks/    
