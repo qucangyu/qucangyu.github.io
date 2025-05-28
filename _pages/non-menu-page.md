@@ -9,11 +9,13 @@ redirect_from:
 Publications organized by research topics
 : You can also find them on [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
 
+<style>
 details summary {
   font-size: 0.95em;
   line-height: 1.2;
   margin-bottom: 0.2em;
 }
+</style>
 
 <div style="line-height: 1.3;" markdown="1">
   <h2>Mechanochemistry</h2>
