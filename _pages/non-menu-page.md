@@ -22,8 +22,8 @@ details summary {
   <h2>Mechanochemistry</h2>
 
   Cangyu Qu, Lu Fang, Robert W. Carpick<sup>*</sup>. **Contact Mechanics Correction of Activation Volumes in Mechanochemistry**. _Phys. Rev. B_ 111, 195405 (2025) | [paper link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
-  <details>
-    <summary><strong> Summary</strong></summary>
+  <details style="font-size: 0.85em;">
+    <summary style="font-zie: 0.85em;"><strong> Summary</strong></summary>
     This work did this did that xxx.
     <img src="/images/bio-photo-2.jpg" alt="tit" width="400" />
   </details>
