@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="margin-left: 2em;">
+<div style="margin-left: 2em;" markdown="1">
 
 I am a postdoctoral researcher in xxxx
 
