@@ -10,7 +10,7 @@ Publications organized by research topics
 : You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
 
 ## Mechanochemistry
-###Contact Mechanics Correction of Activation Volumes in Mechanochemistry
+### Contact Mechanics Correction of Activation Volumes in Mechanochemistry
 <br>
 Cangyu Qu, Lu Fang, Robert W. Carpick<sup>*</sup> _Phys. Rev. B_ 111, 195405 (2025) | [paper link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
 <details>
@@ -19,7 +19,7 @@ Cangyu Qu, Lu Fang, Robert W. Carpick<sup>*</sup> _Phys. Rev. B_ 111, 195405 (20
   This work did this did that xxx.
   
 </details>
-![tit]Images/bio-photo-2.jpg
+![tit](/Images/bio-photo-2.jpg)
 
 ## Nanomechanics & 2D materials
 <details>
