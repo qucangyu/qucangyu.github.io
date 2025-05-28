@@ -9,10 +9,11 @@ redirect_from:
 
 <div style="width: 100%; line-height: 1.3; margin-left: 2em; margin-right: 0em; margin-bottom: 0.2em; text-align: justify" markdown="1">
 
-  <h1>Publication Highlights by Topic</h1>
+  <h1>Research Highlights</h1>
   You can also find them on [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
 
   <h2 style="color: #910f0f">Mechanochemistry</h2>
+  mechanochemistry is xxxxx, it xxxxxxx
   
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
