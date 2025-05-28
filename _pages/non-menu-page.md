@@ -22,9 +22,11 @@ details summary {
   <h2>Mechanochemistry</h2>
 
   Cangyu Qu, Lu Fang, Robert W. Carpick<sup>*</sup>. **Contact Mechanics Correction of Activation Volumes in Mechanochemistry**. _Phys. Rev. B_ 111, 195405 (2025) | [paper link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
-  <details style="font-size: 0.85em;">
-    <summary style="font-zie: 0.85em;"><strong> Summary</strong></summary>
+  <details style="font-size: 0.95em;">
+    <summary style="font-zie: 0.95em;"><strong> Summary</strong></summary>
+    <p style="margin-bottom: 0.2em">
     This work did this did that xxx.
+    </p>
     <img src="/images/bio-photo-2.jpg" alt="tit" width="400" />
   </details>
   <br>
@@ -32,9 +34,11 @@ details summary {
   <h2>Nanomechanics & 2D materials</h2>
 
   Cangyu Qu<sup>*</sup>, Diwei Shi, Li Chen, Zhanghui Wu, Jin Wang, Songlin Shi, Enlai Gao, Zhiping Xu, Quanshui Zheng<sup>*</sup>. **Anisotropic Fracture of Graphene Revealed by Surface Steps on Graphite**. _Phys. Rev. Lett_ 129, 026101 (2022) | [paper link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.026101)
-  <details style="font-size: 0.85em;">
-    <summary style="font-size: 0.85em;"><strong> Summary</strong></summary>
+  <details style="font-size: 0.95em;">
+    <summary style="font-size: 0.95em;"><strong> Summary</strong></summary>
+    <p style="margin-bottom: 0.2em">
     Graphene, a one-atom-thick sheet of carbon atoms, is renowned for its exceptional strength. But its resistance to fracture isn't uniform in all directions. By examining the atomic steps formed on graphite surfaces, we show that graphene  tend to crack more easily along certain orientations. This directional dependence, known as anisotropic fracture, is crucial for the functioning of graphene-based devices and relevant to a unique toughening mechanism in 2D materials.
+    </p>
     <img src="/images/LucNL.png" alt="tit" width="300" />
   </details>
   <br>
