@@ -57,6 +57,19 @@ redirect_from:
   </details>
 
 
+  <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
+
+  Shuji Zhao, Songlin Shi, Kailun Xia, Tao Wang, Maosheng Chai, Yingying Zhang, Cangyu Qu<sup>*</sup>, Quanshui Zheng<sup>*</sup>. **Scratching of Graphene-Coated Cu Substrates Leads to Hardened Cu Interfaces with Enhanced Lubricity**. _ACS ANM_ 3(2), 1992 (2020) | [paper link](https://pubs.acs.org/doi/full/10.1021/acsanm.0c00046)
+  </p>
+  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.9em;">
+    <summary style="font-size: 1em;"><strong> Summary</strong></summary>
+    <p style="margin-bottom: 0.4em">
+      Friction on graphene-coated copper decreases with repeated sliding, without damaging the graphene. This running-in effect stems from hardening of the copper beneath. This study showcases the excellent anti-wear performance of graphene as a mechanically robust, atomically-thin coating.
+    </p>
+    <img src="/images/wear-free.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
+  </details>
+  
+
 
   <h2 style="color: #910f0f; margin-bottom: 1em">Superlubricity</h2>
   <h3><em>Novel phenomena in superlubricity</em></h3>
