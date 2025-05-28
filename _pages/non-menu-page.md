@@ -37,10 +37,13 @@ redirect_from:
   </p>
   <details style="font-size: 0.9em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
+    ```markdown
     <p style="margin-bottom: 0.4em">
       This study introduces a novel, high-throughput method to create three-dimensional structures from two-dimensional materials like graphene. By leveraging a process called "auto-kirigami," we create fold and fracture of 2D materials into intricate 3D shapes without manual intervention. This advancement opens new avenues for designing flexible and responsive nanoscale devices.
     </p>
     <img src="/images/LucNL.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
+    {: .notice}
+    ```
   </details>
 
 
