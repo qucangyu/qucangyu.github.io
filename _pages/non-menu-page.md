@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<div style="margin-left: 2em;" markdown="1">
+<div style="margin-left: 2em; margin-right: 2em" markdown="1">
   <p>
   Publications organized by topics
   : You can also find them on [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
