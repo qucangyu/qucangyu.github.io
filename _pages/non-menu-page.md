@@ -72,20 +72,20 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       This study introduces a "micro-dome" technique to slide and study submillimeter-scale graphite contacts for exploring superlubricity—a state of near-zero friction. The method enables access to much larger (x2500) interfaces than previously possible and reveals structural features that limit frictionless motion, offering insights and experimental tools for for scaling superlubricity up in layered materials.
     </p>
-    <img src="/images/microdome.png" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/microdome.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
-  <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
+  <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
   Cangyu Qu, Kunqi Wang, Jin Wang, Yujie Gongyang, Robert W. Carpick, Michael Urbakh, Quanshui Zheng<sup>*</sup>. **Origin of Friction in Superlubric Graphite Contacts**. _Phys. Rev. Lett._ 125(12), 126102 (2020) | [paper link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.126102)
   </p>
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.9em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
-      This .
+      Using atomic force microscopy and a clever experimental design, we decoupled the friction contributions from the contact area and the edges in superlubric contacts. We found that the tiny residual friction in superlubricity comes originates from the edges: each edge atom contributes >10,000 times more friction than an atom inside the contact. These results, along with derived scaling laws, provide clear guidance for designing large-scale, ultra-low-friction interfaces.
     </p>
-    <img src="/images/origin.png" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/origin.png" alt="tit" width="300" style="display: block; margin: 0.4em auto;" />
   </details>
  
   
