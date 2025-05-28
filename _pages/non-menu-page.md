@@ -57,6 +57,23 @@ redirect_from:
   </details>
 
 
+
+  <h2 style="color: #910f0f; margin-bottom: 1em">Superlubricity</h2>
+  <h3><em>Novel phenomena in superlubricity</em></h3>
+
+
+  <h3><em>Fundamental mechanisms of superlubricity</em></h3>
+  <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
+
+  Dinglin Yang, Cangyu Qu<sup>*</sup>, Yujie Gongyang, Quanshui Zheng<sup>*</sup>, Ottman A. Tertuliano<sup>*</sup>. **Manipulation and Characterization of Submillimeter Shearing Contacts in Graphite by the Micro-Dome Technique**. _ACS AMI_ 15(37), 44563 (2023) | [paper link](https://pubs.acs.org/doi/full/10.1021/acsami.3c09941)
+  </p>
+  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.9em;">
+    <summary style="font-size: 1em;"><strong> Summary</strong></summary>
+    <p style="margin-bottom: 0.4em">
+      This study introduces a "micro-dome" technique to slide and study submillimeter-scale graphite contacts for exploring superlubricity—a state of near-zero friction. The method enables access to much larger (x2500) interfaces than previously possible and reveals structural features that limit frictionless motion, offering insights and experimental tools for for scaling superlubricity up in layered materials.
+    </p>
+    <img src="/images/microdome.png" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
+  </details>
  
   
 
