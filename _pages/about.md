@@ -9,18 +9,30 @@ redirect_from:
 
 <div style="width: 100%; margin-left: 2em; margin-right: 2em; text-align: justify" markdown="1">
 
-<p style="color: #910f0f; margin-top: 1.5em; margin-bottom: 0.2em; font-size: 2em;" markdown="1"><strong>Education</strong></p>
-<p style="margin-top: 0.2em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
+<p style="color: #910f0f; margin-top: 1.5em; margin-bottom: 0.2em; font-size: 1.5em;" markdown="1"><strong>Education</strong></p>
+<p style="margin-top: 0.2em; margin-bottom: 0.2em; font-size: 1em;" markdown="1">
 PhD in Mechanics, Tsinghua University
 <br>
 BS in Engineering Mechanics, Tsinghua University
 </p>
 
+<p style="color: #910f0f; margin-top: 1.5em; margin-bottom: 0.2em; font-size: 1.5em;" markdown="1"><strong>Research Interests</strong></p>
+<p style="margin-top: 0.2em; margin-bottom: 0.2em; font-size: 1em;" markdown="1">
+- Mechanics: nanomechanics, experimental solid mechanics, solid-solid interfaces
+- Tribology: nanotribology, superlubricity, friction, mechanochemistry
+- Nanomaterials: graphene, 2D materials, layered materials
+</p>
+
+<p style="margin-top: 1em; margin-bottom: 0.2em; font-size: 1em;" markdown="1">
 I am a postdoctoral researcher in the Department of Mechanical Engineering and Applied Mechanics at the University of Pennsylvania. I received my PhD and BS degrees from Tsinghua University
+</p>
 
+<p style="margin-top: 1em; margin-bottom: 0.2em; font-size: 1em;" markdown="1">
 My research aims to xxxxxx
-
+<br>
 I use nanomechanics experimental tools ...
+</p>
+
 
 
 <h2 style="color: #910f0f">Education</h2>
