@@ -9,17 +9,18 @@ redirect_from:
 
 <div style="width: 100%; margin-left: 2em; margin-right: 2em; text-align: justify" markdown="1">
 
+<p style="color: #910f0f; margin-top: 1.5em; margin-bottom: 0.2em; font-size: 2em;" markdown="1"><strong>Education</strong></p>
+<p style="margin-top: 0.2em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
+PhD in Mechanics, Tsinghua University
+<br>
+BS in Engineering Mechanics, Tsinghua University
+</p>
+
 I am a postdoctoral researcher in the Department of Mechanical Engineering and Applied Mechanics at the University of Pennsylvania. I received my PhD and BS degrees from Tsinghua University
 
 My research aims to xxxxxx
 
 I use nanomechanics experimental tools ...
-
-<p style="color: #910f0f; margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">Education</p>
-<p style="margin-top: 0.2em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
-PhD in Mechanics, Tsinghua University
-BS in Engineering Mechanics, Tsinghua University
-</p>
 
 
 <h2 style="color: #910f0f">Education</h2>
