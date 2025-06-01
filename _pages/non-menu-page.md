@@ -24,9 +24,9 @@ redirect_from:
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
-      When surfaces rub together, they can trigger chemical reactions—an effect termed mechanochemistry and is widely used in engineering mechanical interfaces, and emerging sustainable chemical synthesis. But quantitatively measuring how stress drives these reactions has been surprisingly inconsistent. Our research reveals that hidden mechanical factors can distort these measurements, and we developed a correction model to resolve this, helping scientists better understand and control these force-driven reactions.
+      When surfaces rub together, they can trigger chemical reactions—an effect termed mechanochemistry and critical to engineering mechanical interfaces and emerging sustainable chemical synthesis. But quantitatively measuring how stress drives these reactions has been surprisingly inconsistent. Our research reveals that hidden mechanical factors can distort these measurements, leading to large errors. We developed a correction model to resolve this, helping scientists better understand and control these force-driven reactions.
     </p>
-    <img src="/images/CMCAV.jpg" alt="tit" width="380" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/CMCAV.jpg" alt="tit" width="330" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
@@ -42,7 +42,7 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       This study introduces a novel, high-throughput method to create three-dimensional structures from two-dimensional materials like graphene. By leveraging a process called "auto-kirigami," we create fold and fracture of 2D materials into intricate 3D shapes without manual intervention. This advancement opens new avenues for designing flexible and responsive nanoscale devices.
     </p>
-    <img src="/images/LucNL.png" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/LucNL.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
@@ -53,9 +53,9 @@ redirect_from:
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
-      Graphene, a one-atom-thick sheet of carbon atoms, is renowned for its exceptional strength. But its resistance to fracture isn't uniform in all directions. By examining the atomic steps formed on graphite surfaces, we show that graphene tend to crack more easily along certain orientations. This directional dependence, known as anisotropic fracture, is crucial for the functioning of graphene-based devices and relevant to a unique toughening mechanism in 2D materials.
+      Graphene, a one-atom-thick sheet of carbon atoms, is renowned for its exceptional strength. But its resistance to fracture isn't uniform in all directions. By examining the atomic-scale surface features left behind after fracture, we show that graphene cracks more easily along certain orientations. This directional dependence, known as anisotropic fracture, is crucial for the functioning of graphene-based devices and relevant to a unique toughening mechanism in 2D materials.
     </p>
-    <img src="/images/aniso.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/aniso.png" alt="tit" width="320" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
@@ -66,7 +66,7 @@ redirect_from:
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
-      Friction on graphene-coated copper decreases with repeated sliding, without damaging the graphene. This running-in effect stems from hardening of the copper beneath. This study showcases the excellent anti-wear performance of graphene as a mechanically robust, atomically-thin coating.
+      Frictional contacts often experience a "running-in" period, where friction decreases due to changes in surface geometry (like roughness) associated with wear. Here, we show that graphene-coated copper also exhibits running-in behavior—but without damaging the graphene. Instead, the friction drop comes from hardening of the copper beneath the coating. This study showcases the excellent anti-wear performance of graphene as a mechanically robust, atomically-thin coating.
     </p>
     <img src="/images/wear-free.png" alt="tit" width="300" style="display: block; margin: 0.4em auto;" />
   </details>
@@ -82,7 +82,7 @@ redirect_from:
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
-      Instabilities driven by surface energy are common in liquids but rare in solids. However, we uncovers such an instability in superlubric 2D materials: a sliding graphite flake suddenly transitions from straight to rotating motion driven by energy minimization. The effect highlights how surface energy can govern solid mechanics in superlubric systems, offering insights for controlling motion in nanoscale devices.
+      Instabilities driven by surface energy are common in liquids but rare in solids. However, we uncovers such an instability in superlubric 2D materials: a sliding graphite flake suddenly transitions from translation into rotating motion driven by surface energy minimization. The effect highlights how surface energy can govern  superlubric systems, offering insights for controlling motion in nanoscale devices.
     </p>
     <img src="/images/rotational-instability.png" alt="tit" width="300" style="display: block; margin: 0.4em auto;" />
   </details>
@@ -97,7 +97,7 @@ redirect_from:
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
-      This study introduces a "micro-dome" technique to slide and study submillimeter-scale graphite contacts for exploring superlubricity—a state of near-zero friction. The method enables access to much larger (x2500) interfaces than previously possible and reveals structural features that limit frictionless motion, offering insights and experimental tools for for scaling superlubricity up in layered materials.
+      This study introduces a "micro-dome" technique to slide and study submillimeter-scale graphite contacts for exploring superlubricity—a state of near-zero friction. The method enables access to much larger (x2500) interfaces than previously possible and reveals structural features that limit frictionless motion, offering insights and experimental tools for scaling superlubricity up in layered materials.
     </p>
     <img src="/images/microdome.png" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
   </details>
@@ -110,7 +110,7 @@ redirect_from:
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
-      Using atomic force microscopy and a clever experimental design, we decoupled the friction contributions from the contact area and the edges in superlubric contacts. We found that the tiny residual friction in superlubricity comes originates from the edges: each edge atom contributes >10,000 times more friction than an atom inside the contact. These results, along with derived scaling laws, provide clear guidance for designing large-scale, ultra-low-friction interfaces.
+      Classical theories of superlubricity consider ideal, infinitely-large contacts. Here, fore real superlubric contacts, we decoupled the friction contributions from the contact area and the contact edges. We found that the tiny residual friction in superlubricity originates from the edges: each edge atom contributes >10,000 times more friction than an atom inside the contact. These results, along with a derived scaling law, provide clear guidance for designing large-scale, ultra-low-friction interfaces.
     </p>
     <img src="/images/origin.png" alt="tit" width="250" style="display: block; margin: 0.4em auto;" />
   </details>
@@ -123,7 +123,7 @@ redirect_from:
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
-      Directly characterizing both surfaces of a solid-solid contact is essential but challenging at the nano- and microscale. Using a new "pick-and-flip" technique, we reveal the hidden interfaces in superlubric contacts. We confirm that superlubricity arises from two misaligned crystalline surfaces and show that failure is caused by external defects—explaining why only some contacts exhibit superlubricity and guiding the design of ultra-low-friction systems.
+      Directly characterizing both surfaces of a solid-solid contact is essential but challenging at the nano- and microscale. Using a new "pick-and-flip" technique, we reveal the hidden interfaces in superlubric contacts. We confirm that superlubricity arises from two misaligned crystalline surfaces and show that its failure is caused by external defects—explaining why only some contacts exhibit superlubricity and guiding the design of ultra-low-friction systems.
     </p>
     <img src="/images/pick-n-flip.png" alt="tit" width="250" style="display: block; margin: 0.4em auto;" />
   </details>
