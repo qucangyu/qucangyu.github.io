@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,11 +9,17 @@ redirect_from:
 
 <div style="width: 100%; margin-left: 2em; margin-right: 2em; text-align: justify" markdown="1">
 
-I am a postdoctoral researcher in the Department of Mechanical Engineering and Applied Mechanics at the University of Pennsylvania. Before joining UPenn, I earned my PhD degree in Tsinghua University and worked as aresearch associate at Research Institute xxxx
+I am a postdoctoral researcher in the Department of Mechanical Engineering and Applied Mechanics at the University of Pennsylvania. I received my PhD and BS degrees from Tsinghua University
 
 My research aims to xxxxxx
 
 I use nanomechanics experimental tools ...
+
+<p style="color: #910f0f; margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">Education</p>
+<p style="margin-top: 0.2em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
+PhD in Mechanics, Tsinghua University
+BS in Engineering Mechanics, Tsinghua University
+</p>
 
 
 <h2 style="color: #910f0f">Education</h2>
