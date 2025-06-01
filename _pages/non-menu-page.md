@@ -84,7 +84,7 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       Instabilities driven by surface energy are common in liquids but rare in solids. However, we uncovers such an instability in superlubric 2D materials: a sliding graphite flake suddenly transitions from translation into rotating motion driven by surface energy minimization. The effect highlights how surface energy can govern  superlubric systems, offering insights for controlling motion in nanoscale devices.
     </p>
-    <img src="/images/rotational-instability.png" alt="tit" width="300" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/rotational-instability.png" alt="tit" width="280" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
@@ -97,7 +97,7 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       Graphite and other 2D materials interact with liquids in ways crucial for sensors, coatings, and energy devices, but their adhesion is hard to measure. This study introduces a new method, directly enabled by the near-frictionless nature of superlubricity, to measure how strongly liquids adhere to graphite using tiny self-retracting graphite flakes. The approach offers a novel and reliable way to study liquid–2D material interactions.
     </p>
-    <img src="/images/rotational-instability.png" alt="tit" width="300" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/graphite-liquid.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
@@ -112,7 +112,7 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       This study introduces a "micro-dome" technique to slide and study submillimeter-scale graphite contacts for exploring superlubricity—a state of near-zero friction. The method enables access to much larger (x2500) interfaces than previously possible and reveals structural features that limit frictionless motion, offering insights and experimental tools for scaling superlubricity up in layered materials.
     </p>
-    <img src="/images/microdome.png" alt="tit" width="400" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/microdome.png" alt="tit" width="380" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
@@ -125,7 +125,7 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       Classical theories of superlubricity consider ideal, infinitely-large contacts. Here, fore real superlubric contacts, we decoupled the friction contributions from the contact area and the contact edges. We found that the tiny residual friction in superlubricity originates from the edges: each edge atom contributes >10,000 times more friction than an atom inside the contact. These results, along with a derived scaling law, provide clear guidance for designing large-scale, ultra-low-friction interfaces.
     </p>
-    <img src="/images/origin.png" alt="tit" width="250" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/origin.png" alt="tit" width="230" style="display: block; margin: 0.4em auto;" />
   </details>
  
  
@@ -138,7 +138,7 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       Directly characterizing both surfaces of a solid-solid contact is essential but challenging at the nano- and microscale. Using a new "pick-and-flip" technique, we reveal the hidden interfaces in superlubric contacts. We confirm that superlubricity arises from two misaligned crystalline surfaces and show that its failure is caused by external defects—explaining why only some contacts exhibit superlubricity and guiding the design of ultra-low-friction systems.
     </p>
-    <img src="/images/pick-n-flip.png" alt="tit" width="250" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/pick-n-flip.png" alt="tit" width="230" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
