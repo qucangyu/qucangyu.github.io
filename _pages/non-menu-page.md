@@ -144,6 +144,6 @@ redirect_from:
 
 <br>
 <h1>Complete Publication List</h1>
-  Complete publication lis is available on [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao) and in [my CV](/files/CV_Cangyu Qu.pdf).
+  Complete publication lis is available in [my CV](/files/CV_Cangyu Qu.pdf) and [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
 </div>
 
