@@ -14,7 +14,7 @@ redirect_from:
 
 
   <h2 style="color: #910f0f">Mechanochemistry</h2>
-  <em>Mechanochemistry involves [controlling chemical reactions through mechanical forces and stresses](https://www.chem.tamu.edu/cmcc/). It was named one of the ten emerging technologies in chemistry due to the potential for green chemical synthesis. Additionally, tribochemistry – a subset of mechanochemistry when interfacial shear becomes important – plays crucial roles in key engineering systems such as automobile engines. However, this introduces new challenges in understanding the processes at the solid-solid contacts ...</em>
+  <em>Mechanochemistry involves [controlling chemical reactions](https://www.chem.tamu.edu/cmcc/) through mechanical forces and stresses. It was named one of the ten emerging technologies in chemistry due to the potential for green chemical synthesis. Additionally, tribochemistry – a subset of mechanochemistry when interfacial shear becomes important – plays crucial roles in key engineering systems such as automobile engines. However, this introduces new challenges in understanding the processes at the solid-solid contacts ...</em>
   
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
@@ -142,8 +142,8 @@ redirect_from:
     <img src="/images/pick-n-flip.png" alt="tit" width="230" style="display: block; margin: 0.4em auto;" />
   </details>
 
-
+<br>
 <h1>Complete Publication List</h1>
-  You can also find them on [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
+  Complete publication lis is available on [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao) and in [my CV](/files/CV_Cangyu Qu.pdf).
 </div>
 
