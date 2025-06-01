@@ -14,7 +14,7 @@ redirect_from:
 
 
   <h2 style="color: #910f0f">Mechanochemistry</h2>
-  mechanochemistry is xxxxx, it xxxxxxx
+  Mechanochemistry involves [controlling chemical reactions through mechanical forces and stresses](https://www.chem.tamu.edu/cmcc/) by changing the reaction energy barriers. It was named one of the ten emerging technologies in chemistry due to the potential for green chemical synthesis. Additionally, tribochemistry – a subset of mechanochemistry when interfacial shear becomes important – plays crucial roles in key engineering systems such as automobile engines. However, this introduces new challenges in understanding the processes at the solid-solid contacts ...
   
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
@@ -32,7 +32,7 @@ redirect_from:
 
 
   <h2 style="color: #910f0f">Nanomechanics & 2D materials</h2>
-
+  Nanomaterials, including 2-dimensonal (2D) materials with single- to few-atoms thickness, often exhibit novel and unique mechanical behaviors different from their bulk counterparts. Understanding their strength, flexibility, and failure modes is key to advancing a variety of relevant applications including next-generation electronics, coatings, and devices. However, due to the tiny length sclaes involved, it often requires advanced tools and clever experimental design ...
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
   Luc N. Capaldi, Li Yuan, Cangyu Qu, Daniel A. Sánchez, Robert W. Carpick<sup>*</sup>, Ottman A. Tertuliano<sup>*</sup>. **High-Throughput Formation of 3D van der Waals Auto-Kirigami**. _Nano Lett._ 25(11), 3964 (2025) | [paper link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c06637) | [Penn Engineering Today](https://blog.seas.upenn.edu/knowing-when-to-bend-or-break-penn-engineers-examine-the-fracture-mechanics-of-3d-graphene-structures/)
@@ -74,6 +74,7 @@ redirect_from:
 
 
   <h2 style="color: #910f0f; margin-bottom: 1em">Superlubricity</h2>
+    Friction and wear contribute to widespread wasted energy and machine failure across different scales. Structural superlubricity achieves near-zero friction and wear without the use of any lubricants. It arises directly from the atomic-scale structures of the surfaces in contact, and is therefore a unique and potentially revolutionary strategy for solving friction and wear problems, particularly on nano- and microscales ...
   <h3><em>Novel phenomena in superlubricity</em></h3>
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
@@ -97,7 +98,7 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       Graphite and other 2D materials interact with liquids in ways crucial for sensors, coatings, and energy devices, but their adhesion is hard to measure. This study introduces a new method, directly enabled by the near-frictionless nature of superlubricity, to measure how strongly liquids adhere to graphite using tiny self-retracting graphite flakes. The approach offers a novel and reliable way to study liquid–2D material interactions.
     </p>
-    <img src="/images/graphite-liquid.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/graphite-liquid.png" alt="tit" width="320" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
@@ -112,7 +113,7 @@ redirect_from:
     <p style="margin-bottom: 0.4em">
       This study introduces a "micro-dome" technique to slide and study submillimeter-scale graphite contacts for exploring superlubricity—a state of near-zero friction. The method enables access to much larger (x2500) interfaces than previously possible and reveals structural features that limit frictionless motion, offering insights and experimental tools for scaling superlubricity up in layered materials.
     </p>
-    <img src="/images/microdome.png" alt="tit" width="380" style="display: block; margin: 0.4em auto;" />
+    <img src="/images/microdome.png" alt="tit" width="340" style="display: block; margin: 0.4em auto;" />
   </details>
 
 
