@@ -14,7 +14,7 @@ redirect_from:
 
 
   <h2 style="color: #910f0f">Mechanochemistry</h2>
-  Mechanochemistry involves [controlling chemical reactions through mechanical forces and stresses](https://www.chem.tamu.edu/cmcc/) by changing the reaction energy barriers. It was named one of the ten emerging technologies in chemistry due to the potential for green chemical synthesis. Additionally, tribochemistry – a subset of mechanochemistry when interfacial shear becomes important – plays crucial roles in key engineering systems such as automobile engines. However, this introduces new challenges in understanding the processes at the solid-solid contacts ...
+  <em>Mechanochemistry involves [controlling chemical reactions through mechanical forces and stresses](https://www.chem.tamu.edu/cmcc/). It was named one of the ten emerging technologies in chemistry due to the potential for green chemical synthesis. Additionally, tribochemistry – a subset of mechanochemistry when interfacial shear becomes important – plays crucial roles in key engineering systems such as automobile engines. However, this introduces new challenges in understanding the processes at the solid-solid contacts ...</em>
   
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
@@ -32,7 +32,7 @@ redirect_from:
 
 
   <h2 style="color: #910f0f">Nanomechanics & 2D materials</h2>
-  Nanomaterials, including 2-dimensonal (2D) materials with single- to few-atoms thickness, often exhibit novel and unique mechanical behaviors different from their bulk counterparts. Understanding their strength, flexibility, and failure modes is key to advancing a variety of relevant applications including next-generation electronics, coatings, and devices. However, due to the tiny length sclaes involved, it often requires advanced tools and clever experimental design ...
+  <em>Nanomaterials, including 2-dimensonal (2D) materials with single- to few-atoms thickness, often exhibit novel and unique mechanical behaviors different from their bulk counterparts. Understanding their strength, flexibility, and failure modes is key to advancing a variety of relevant applications including next-generation electronics, coatings, and devices. However, due to the tiny length sclaes involved, it often requires advanced tools and clever experimental design ...</em>
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
   Luc N. Capaldi, Li Yuan, Cangyu Qu, Daniel A. Sánchez, Robert W. Carpick<sup>*</sup>, Ottman A. Tertuliano<sup>*</sup>. **High-Throughput Formation of 3D van der Waals Auto-Kirigami**. _Nano Lett._ 25(11), 3964 (2025) | [paper link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c06637) | [Penn Engineering Today](https://blog.seas.upenn.edu/knowing-when-to-bend-or-break-penn-engineers-examine-the-fracture-mechanics-of-3d-graphene-structures/)
@@ -74,8 +74,8 @@ redirect_from:
 
 
   <h2 style="color: #910f0f; margin-bottom: 1em">Superlubricity</h2>
-    Friction and wear contribute to widespread wasted energy and machine failure across different scales. Structural superlubricity achieves near-zero friction and wear without the use of any lubricants. It arises directly from the atomic-scale structures of the surfaces in contact, and is therefore a unique and potentially revolutionary strategy for solving friction and wear problems, particularly on nano- and microscales ...
-  <h3 style="color: #111184"><em>Novel phenomena in superlubricity</em></h3>
+  <em>Friction and wear contribute to widespread wasted energy and machine failure across different scales. Structural superlubricity achieves near-zero friction and wear without the use of any lubricants. It arises directly from the atomic-scale structures of the surfaces in contact, and is therefore a unique and potentially revolutionary strategy for solving friction and wear problems, particularly on nano- and microscales ...</em>
+  <h3 style="color: #111184">Novel phenomena in superlubricity</h3>
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
   Cangyu Qu, Songlin Shi, Ming Ma, Quanshui Zheng<sup>*</sup>. **Rotational Instability in Superlubric Joints**. _Phys. Rev. Lett._ 122(24), 246101 (2019)| [paper link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.246101) | [Highlighted by Nature Materials](https://www.nature.com/articles/s41563-019-0450-0)
@@ -103,7 +103,7 @@ redirect_from:
 
 
 
-  <h3 style="color: #111184"><em>Fundamental mechanisms of superlubricity</em></h3>
+  <h3 style="color: #111184">Fundamental mechanisms of superlubricity</h3>
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
   Dinglin Yang, Cangyu Qu<sup>*</sup>, Yujie Gongyang, Quanshui Zheng<sup>*</sup>. **Manipulation and Characterization of Submillimeter Shearing Contacts in Graphite by the Micro-Dome Technique**. _ACS AMI_ 15(37), 44563 (2023) | [paper link](https://pubs.acs.org/doi/full/10.1021/acsami.3c09941)
