@@ -88,6 +88,19 @@ redirect_from:
   </details>
 
 
+  <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
+
+  Cangyu Qu, Wei Cao, Bingtong Liu, Anle Wang, Fankai Xie, Ming Ma, Wenzhe Shan, Michael Urbakh, Quanshui Zheng<sup>*</sup>. **Direct Measurement of Adhesions of Liquids on Graphite**. _J. Phys. Chem. C_, 123(18), 11671 (2019)| [paper link](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.9b00900)
+  </p>
+  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
+    <summary style="font-size: 1em;"><strong> Summary</strong></summary>
+    <p style="margin-bottom: 0.4em">
+      Graphite and other 2D materials interact with liquids in ways crucial for sensors, coatings, and energy devices, but their adhesion is hard to measure. This study introduces a new method, directly enabled by the near-frictionless nature of superlubricity, to measure how strongly liquids adhere to graphite using tiny self-retracting graphite flakes. The approach offers a novel and reliable way to study liquid–2D material interactions.
+    </p>
+    <img src="/images/rotational-instability.png" alt="tit" width="300" style="display: block; margin: 0.4em auto;" />
+  </details>
+
+
 
   <h3><em>Fundamental mechanisms of superlubricity</em></h3>
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
