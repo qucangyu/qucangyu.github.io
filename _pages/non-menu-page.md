@@ -75,7 +75,7 @@ redirect_from:
 
   <h2 style="color: #910f0f; margin-bottom: 1em">Superlubricity</h2>
     Friction and wear contribute to widespread wasted energy and machine failure across different scales. Structural superlubricity achieves near-zero friction and wear without the use of any lubricants. It arises directly from the atomic-scale structures of the surfaces in contact, and is therefore a unique and potentially revolutionary strategy for solving friction and wear problems, particularly on nano- and microscales ...
-  <h3><em>Novel phenomena in superlubricity</em></h3>
+  <h3 style="color: #111184"><em>Novel phenomena in superlubricity</em></h3>
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
   Cangyu Qu, Songlin Shi, Ming Ma, Quanshui Zheng<sup>*</sup>. **Rotational Instability in Superlubric Joints**. _Phys. Rev. Lett._ 122(24), 246101 (2019)| [paper link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.246101) | [Highlighted by Nature Materials](https://www.nature.com/articles/s41563-019-0450-0)
@@ -103,7 +103,7 @@ redirect_from:
 
 
 
-  <h3><em>Fundamental mechanisms of superlubricity</em></h3>
+  <h3 style="color: #111184"><em>Fundamental mechanisms of superlubricity</em></h3>
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
   Dinglin Yang, Cangyu Qu<sup>*</sup>, Yujie Gongyang, Quanshui Zheng<sup>*</sup>. **Manipulation and Characterization of Submillimeter Shearing Contacts in Graphite by the Micro-Dome Technique**. _ACS AMI_ 15(37), 44563 (2023) | [paper link](https://pubs.acs.org/doi/full/10.1021/acsami.3c09941)
