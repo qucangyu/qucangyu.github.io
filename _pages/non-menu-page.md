@@ -61,7 +61,7 @@ redirect_from:
 
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
-  Shuji Zhao, Songlin Shi, Kailun Xia, Tao Wang, Maosheng Chai, Yingying Zhang, Cangyu Qu<sup>*</sup>, Quanshui Zheng<sup>*</sup>. **Scratching of Graphene-Coated Cu Substrates Leads to Hardened Cu Interfaces with Enhanced Lubricity**. _ACS ANM_ 3(2), 1992 (2020) | [paper link](https://pubs.acs.org/doi/full/10.1021/acsanm.0c00046)
+  Shuji Zhao, Songlin Shi, Kailun Xia, Tao Wang, Maosheng Chai, Yingying Zhang, Cangyu Qu<sup>*</sup>, Quanshui Zheng<sup>*</sup>. **Scratching of Graphene-Coated Cu Substrates Leads to Hardened Cu Interfaces with Enhanced Lubricity**. _ACS Appl. Nano Mater_ 3(2), 1992 (2020) | [paper link](https://pubs.acs.org/doi/full/10.1021/acsanm.0c00046)
   </p>
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
@@ -106,7 +106,7 @@ redirect_from:
   <h3 style="color: #111184">Fundamental mechanisms of superlubricity</h3>
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
-  Dinglin Yang, Cangyu Qu<sup>*</sup>, Yujie Gongyang, Quanshui Zheng<sup>*</sup>. **Manipulation and Characterization of Submillimeter Shearing Contacts in Graphite by the Micro-Dome Technique**. _ACS AMI_ 15(37), 44563 (2023) | [paper link](https://pubs.acs.org/doi/full/10.1021/acsami.3c09941)
+  Dinglin Yang, Cangyu Qu<sup>*</sup>, Yujie Gongyang, Quanshui Zheng<sup>*</sup>. **Manipulation and Characterization of Submillimeter Shearing Contacts in Graphite by the Micro-Dome Technique**. _ACS Appl. Mater. Interfaces_ 15(37), 44563 (2023) | [paper link](https://pubs.acs.org/doi/full/10.1021/acsami.3c09941)
   </p>
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
@@ -144,6 +144,6 @@ redirect_from:
 
 <br>
 <h1>Complete Publication List</h1>
-  Complete publication lis is available in [my CV](/files/CV_Cangyu Qu.pdf) and [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
+  Complete publication list can be found in [my CV](/files/CV_Cangyu Qu.pdf) or [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
 </div>
 
