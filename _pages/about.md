@@ -42,6 +42,12 @@ I use nanomechanics experimental tools ...
   - Visiting student at Harvard University (2012.8-2013.2)
   ddddsdsfssf
 
+<h2 style="color: #910f0f">Research Experience</h2>
+- Research Associate, Institute of Superlubricity Technology, Research Institute of Tsinghua University in Shenzhen (2019-2021)
+- Visiting Scholar (PhD), University of Pennsylvania (2018.4-2018.10)
+- Visiting Research Intern (undergrad), Harvard University
+
+
 from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) 
 
 ## This is "##" size header
