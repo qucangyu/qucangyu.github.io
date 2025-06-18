@@ -10,7 +10,7 @@ redirect_from:
 <div style="width: 100%; line-height: 1.3; margin-left: 2em; margin-right: 0em; margin-bottom: 0.2em; text-align: justify" markdown="1">
 
   <h1>Research Highlights</h1>
-  Representative publications organized by topics
+  Representative publications organized by topics:
 
 
   <h2 style="color: #910f0f">Mechanochemistry</h2>

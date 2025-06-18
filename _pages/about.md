@@ -15,11 +15,11 @@ I am
 
 
 <p style="margin-top: 1.2em; margin-bottom: 0.2em; font-size: 1em;" markdown="1">
-I am a postdoctoral researcher in the Department of Mechanical Engineering and Applied Mechanics at the University of Pennsylvania. I received my PhD and BS degrees in Mechanics from Tsinghua University.
+I am a <span syle="color: #910f0f">postdoctoral researcher</span> in the Department of Mechanical Engineering and Applied Mechanics at the <span style="color: #3b65a3">University of Pennsylvania</span>. I received my PhD and BS degrees in Mechanics from <span style="color: #3b65a3">Tsinghua University</span>.
 </p>
 
 <p style="margin-top: 1em; margin-bottom: 0.2em; font-size: 1em;" markdown="1">
-My research aims to xxxxxx
+My research aims to understand and control how materials slide, deform, and fail at solid–solid interfaces, particularly at the micro- and nanoscale. I study fundamental processes that govern friction, fracture, and stress-driven chemical reactions, which give rise to striking behaviors—such as near-frictionless sliding without lubricants and the extraordinary properties of atomically-thin 2D materials. These insights help advance technologies in micro/nanodevices, high-performance coatings and interfaces, flexible electronics, and sustainable manufacturing through mechanochemistry.
 <br>
 I use nanomechanics experimental tools ...
 </p>
@@ -28,10 +28,7 @@ I use nanomechanics experimental tools ...
 
 <h2 style="color: #910f0f">Education</h2>
 - Ph.D. in Mechanics, Tsinghua University (2013-2019)
-  - Visiting student at University of Pennsylvania (2018.4-2018.10)
 - B.S. in Engineering Mechanics, Tsinghua University (2009-2013)
-  - Visiting student at Harvard University (2012.8-2013.2)
-  ddddsdsfssf
 
 <h2 style="color: #910f0f">Research Experience</h2>
 - Research Associate, Institute of Superlubricity Technology, Research Institute of Tsinghua University in Shenzhen (2019-2021)
