@@ -15,11 +15,11 @@ I am
 
 
 <p style="margin-top: 1.2em; margin-bottom: 0.2em; font-size: 1em;" markdown="1">
-I am a <span tyle="color: #910f0f"><strong>postdoctoral researcher</span></strong> in the Department of Mechanical Engineering and Applied Mechanics at the <span style="color: #3b65a3"><strong>University of Pennsylvania</span></strong>. I received my PhD and BS degrees in Mechanics from <span style="color: #3b65a3"><strong>Tsinghua University</span></stromg>.
+I am a <span style="color: #910f0f"><strong>postdoctoral researcher</strong></span> in the Department of Mechanical Engineering and Applied Mechanics at the <span style="color: #3b65a3"><strong>University of Pennsylvania</strong></span>. I received my PhD and BS degrees in Mechanics from <span style="color: #3b65a3"><strong>Tsinghua University</strong></span>.
 </p>
 
 <p style="margin-top: 1em; margin-bottom: 0.2em; font-size: 1em;" markdown="1">
-My research aims to understand and control how materials slide, deform, and fail at solid–solid interfaces, particularly at the micro- and nanoscale. I study fundamental processes that govern <span tyle="color: #910f0f">friction</span>, <span tyle="color: #910f0f">fracture</span>, and <span tyle="color: #910f0f">stress-driven chemical reactions</span>, which give rise to striking behaviors—such as near-frictionless sliding without lubricants and the extraordinary properties of atomically-thin 2D materials. These insights help advance technologies in micro/nanodevices, high-performance coatings and interfaces, flexible electronics, and sustainable manufacturing through mechanochemistry.
+My research aims to understand and control how materials slide, deform, and fail at solid–solid interfaces, particularly at the <span tyle="color: #910f0f">micro- and nanoscale</span>. I study fundamental processes that govern <span tyle="color: #910f0f">friction</span>, <span tyle="color: #910f0f">fracture</span>, and <span tyle="color: #910f0f">stress-driven chemical reactions</span>, which give rise to striking behaviors—such as near-frictionless sliding without lubricants and the extraordinary properties of atomically-thin 2D materials. These insights help advance technologies in micro/nanodevices, high-performance coatings and interfaces, flexible electronics, and sustainable manufacturing through mechanochemistry.
 <br>
 I use nanomechanics experimental tools ...
 </p>
