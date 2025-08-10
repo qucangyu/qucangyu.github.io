@@ -23,11 +23,15 @@ I take a multidisciplinary approach combining mechanics with materials science, 
 
 
 <h2 style="color: #910f0f">Education</h2>
+<p style="margin-top: 1.2em; margin-bottom: 0.2em; font-size: 0.95em;" markdown="1">
 - Ph.D. in Mechanics, Tsinghua University (2013-2019)
 - B.S. in Engineering Mechanics, Tsinghua University (2009-2013)
+</p>
 
 <h2 style="color: #910f0f">Research Experience</h2>
+<p style="margin-top: 1.2em; margin-bottom: 0.2em; font-size: 0.95em;" markdown="1">
 - Postdoctoral Researcher, University of Pennsylvania (2021-present)
 - Research Associate, Institute of Superlubricity Technology, Research Institute of Tsinghua University in Shenzhen (2019-2021)
 - Visiting Scholar (PhD), University of Pennsylvania (2018.4-2018.10)
 - Visiting Research Intern (undergrad), Harvard University (2012.8-2013.2)
+</p>
