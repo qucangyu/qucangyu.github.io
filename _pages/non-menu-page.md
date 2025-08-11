@@ -3,8 +3,8 @@ permalink: /non-menu-page/
 title: " "
 author_profile: true
 redirect_from: 
-  - /nmp-1/
-  - /nmp-1.html
+  - /nmp/
+  - /nmp.html
 ---
 
 <div style="width: 100%; line-height: 1.3; margin-left: 2em; margin-right: 0em; margin-bottom: 0.2em; text-align: justify" markdown="1">

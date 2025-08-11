@@ -12,10 +12,10 @@ main:
 #    url: /publications/
     
   - title: "Research"
-    url: /nmp-1/
+    url: /nmp/
 
   - title: "Talks"
-    url: /talks_new/    
+    url: /Talks/    
 
   - title: "Teaching"
     url: /teaching/    
