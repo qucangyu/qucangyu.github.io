@@ -31,7 +31,7 @@ redirect_from:
 
 <p style="margin-bottom: 0.9em; font-size: 0.9em;" markdown="1">
 
-  **Friction Origin and Characterization of a Superlubric Graphite Contact** _Vienna Virtual Materials Tribology Workshop_, Virtual, 2021 (Invited Seminar). | [tlak recording (YouTube)](https://www.youtube.com/watch?v=dEcWYFSiAWU&t=13s)
+  **Friction Origin and Characterization of a Superlubric Graphite Contact** _Vienna Virtual Materials Tribology Workshop_, Virtual, 2021 (Invited Seminar). | [recording (YouTube)](https://www.youtube.com/watch?v=dEcWYFSiAWU&t=13s)
   </p>
 
 <p style="margin-bottom: 0.9em; font-size: 0.9em;" markdown="1">
