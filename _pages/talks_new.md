@@ -1,5 +1,5 @@
 ---
-permalink: /talks_new/
+permalink: /talks_new_CQ/
 title: " "
 author_profile: true
 redirect_from: 
