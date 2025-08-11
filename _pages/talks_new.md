@@ -40,7 +40,7 @@ redirect_from:
 
   **Durability of Materials for Nanoelectromechanical Switches Studied by Scanning Probe Microscopy**. _Society for Tribologists and Lubrication Engineers (STLE) Annual Meeting_, Long Beach, CA, 2023 | [Slides (PDF)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
   </p>
-    <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
+  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Abstract</strong></summary>
     <p style="margin-bottom: 0.4em">
       Nanoelectromechanical systems (NEMS) switches, a candidate for next-generation electronics for their negligible leakage and low operation voltage, suffer from poor reliability featured by various failure modes during cyclic operation. In this work, the durability of electrical contact materials is studied by scanning probe microscopy (SPM) under NEMS switch-like conditions, with the goal of understanding the tribo-electro-mechanical mechanisms leading to failure. We use an SPM-based methodology for high-throughput assessment of candidate contact materials, with a Pt/Pt interface studied as a prototypical demonstration. The evolution of interfacial properties is measured for millions to billions of contact cycles. The accumulation of insulating tribopolymers resulting from applied stress and bias to adsorbed airborne contaminants is investigated. Measurement on the tribopolymer growth rate and its dependence on contact stress supports a stress-assisted thermal activation model.
