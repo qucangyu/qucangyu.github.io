@@ -19,7 +19,7 @@ redirect_from:
   
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
-  Cangyu Qu, Lu Fang, Robert W. Carpick<sup>*</sup>. **Contact Mechanics Correction of Activation Volumes in Mechanochemistry**. _Phys. Rev. B_ 111, 195405 (2025) | [paper link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405) | | [Penn Engineering Research Highlight](https://blog.seas.upenn.edu/cracking-the-code-of-force-driven-chemistry/)
+  Cangyu Qu, Lu Fang, Robert W. Carpick<sup>*</sup>. **Contact Mechanics Correction of Activation Volumes in Mechanochemistry**. _Phys. Rev. B_ 111, 195405 (2025) | [paper link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405) | [Penn Engineering Research Highlight](https://blog.seas.upenn.edu/cracking-the-code-of-force-driven-chemistry/)
   </p>
 
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
