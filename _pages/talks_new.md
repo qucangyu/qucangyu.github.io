@@ -13,7 +13,7 @@ redirect_from:
   <h1>Selected Talks</h1>
 </div>
 
-<p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
+<p style="margin-bottom: 0.5em; font-size: 0.9em;" markdown="1">
 
   **Anisotropy and Stress-Assisted Thermal Activation Kinetics of Graphene Fracture Revealed by Atomic Force Microscopy**. _79th STLE Annual Meeting & Exhibition_, Atlanta, GA, 2025 | [paper link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405) | | [Penn Engineering Research Highlight](https://blog.seas.upenn.edu/cracking-the-code-of-force-driven-chemistry/)
-  </p>
+</p>
