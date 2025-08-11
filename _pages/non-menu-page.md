@@ -33,7 +33,7 @@ redirect_from:
 
 
   <h2 style="color: #910f0f">Nanomechanics & 2D materials</h2>
-  <em>Nanomaterials, including 2-dimensonal (2D) materials with single- to few-atoms thickness, often exhibit novel and unique mechanical behaviors different from their bulk counterparts. Understanding their strength, flexibility, and failure modes is key to advancing a variety of relevant applications including next-generation electronics, coatings, and devices. However, due to the tiny length sclaes involved, it often requires advanced tools and clever experimental design ...</em>
+  <em> Two-dimensonal (2D) materials with single- to few-atoms thickness exhibit unique properties different from their bulk counterparts. Understanding their mechanical behaviors including strength, flexibility, and failure is key to a variety of relevant applications. However, due to the tiny length sclaes involved, it often requires advanced tools and clever experimental design ...</em>
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
   Luc N. Capaldi, Li Yuan, Cangyu Qu, Daniel A. Sánchez, Robert W. Carpick<sup>*</sup>, Ottman A. Tertuliano<sup>*</sup>. **High-Throughput Formation of 3D van der Waals Auto-Kirigami**. _Nano Lett._ 25(11), 3964 (2025) | [paper link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c06637) | [Penn Engineering Today](https://blog.seas.upenn.edu/knowing-when-to-bend-or-break-penn-engineers-examine-the-fracture-mechanics-of-3d-graphene-structures/)
@@ -75,7 +75,7 @@ redirect_from:
 
 
   <h2 style="color: #910f0f; margin-bottom: 1em">Superlubricity</h2>
-  <em>Friction and wear contribute to widespread wasted energy and machine failure across different scales. Structural superlubricity achieves near-zero friction and wear without the use of any lubricants. It arises directly from the atomic-scale structures of the surfaces in contact, and is therefore a unique and potentially revolutionary strategy for solving friction and wear problems, particularly on nano- and microscales ...</em>
+  <em>Friction and wear cause significant energy losses and equipment failures across scales. Structural superlubricity – near-frictionless sliding without the use of any lubricants – arises from the atomic-scale structures of contacting surfaces. This unique phenomenon offers potentially revolutionary strategy for solving friction and wear problems, particularly on nano- and microscales ...</em>
   <h3 style="color: #111184">Novel phenomena in superlubricity</h3>
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
