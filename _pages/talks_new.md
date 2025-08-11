@@ -55,4 +55,9 @@ redirect_from:
 <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
   **Rotational Instability of Superlubric Joints & Its Implication on Superlubric Devices**. _25th International Congress of Theoretical and Applied Mechanics (ICTAM)_, Virtual, 2021 | [Slides (PDF)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
+</p>
+
+
+<p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
+  Complete conference presentation list can be found in [my CV](/files/CV_Cangyu Qu.pdf).
   </p>
