@@ -15,7 +15,7 @@ redirect_from:
 </div>
 
   <h2 style="color: #910f0f">Mechanochemistry</h2>
-  <em>Mechanochemistry involves [controlling chemical reactions](https://www.chem.tamu.edu/cmcc/) through mechanical forces and stresses. It was named one of the ten emerging technologies in chemistry due to the potential for green chemical synthesis. Additionally, tribochemistry – a subset of mechanochemistry when interfacial shear becomes important – plays crucial roles in key engineering systems such as automobile engines. However, this introduces new challenges in understanding the processes at the solid-solid contacts ...</em>
+  <em>Mechanochemistry involves [controlling chemical reactions](https://www.chem.tamu.edu/cmcc/) through mechanical stress. Tribochemistry – a subset of mechanochemistry happening at contact interfaces – plays crucial roles in engineering systems like automobile engines. This emerging field presents new challenges in understanding the coupled mechanical and chemical processes ...</em>
   
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
