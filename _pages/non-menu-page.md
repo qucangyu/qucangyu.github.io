@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="margin-top: 0.2em; margin-bottom: 0.1em" markdown="1">
   <h1>Research Highlights</h1>
-  Selected publications by topics:
+  Selected publications by topic
 </div>
 
   <h2 style="color: #910f0f">Mechanochemistry</h2>
