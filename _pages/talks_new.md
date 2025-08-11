@@ -16,8 +16,14 @@ redirect_from:
   
 <p style="margin-bottom: 0.9em; font-size: 0.9em;" markdown="1">
 
-  **Anisotropy and Stress-Assisted Thermal Activation Kinetics of Graphene Fracture Revealed by Atomic Force Microscopy**. _79th STLE Annual Meeting & Exhibition_, Atlanta, GA, 2025. | [slides pdf](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
+  **Anisotropy and Stress-Assisted Thermal Activation Kinetics of Graphene Fracture Revealed by Atomic Force Microscopy**. _Society for Tribologists and Lubrication Engineers (STLE) Annual Meeting_, Atlanta, GA, 2025. | [slides pdf](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
 </p>
+  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
+    <summary style="font-size: 1em;"><strong> Abstract</strong></summary>
+    <p style="margin-bottom: 0.4em">
+      sfadfaf adsf adsf adsf sadf ads fsda adsf.
+    </p>
+  </details>
 
 <p style="margin-bottom: 0.9em; font-size: 0.9em;" markdown="1">
 
