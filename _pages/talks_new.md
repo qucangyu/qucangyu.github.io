@@ -21,7 +21,7 @@ redirect_from:
 
 <p style="margin-bottom: 0.9em; font-size: 0.9em;" markdown="1">
 
-  **Contact Mechanics Correction of Activation Volume in Mechanochemistry**. _Gordon Research Conference on Tribology_, Lewiston, ME, 2024 (Early-career presenter, selected for main conference talk). | [slides pdf](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
+  **Contact Mechanics Correction of Activation Volume in Mechanochemistry**. _Gordon Research Conference on Tribology_, Lewiston, ME, 2024 (Selected early-carrer presenter for main conference talk). | [slides pdf](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
 </p>
 
 <p style="margin-bottom: 0.9em; font-size: 0.9em;" markdown="1">
