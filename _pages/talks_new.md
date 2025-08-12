@@ -13,6 +13,18 @@ redirect_from:
   <h1>Selected Talks</h1>
 </div>
 
+
+<p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
+
+  **Mechanics and Tribology of Nano-/Microscale Solid Interfaces: From “Zero Friction” to Force-Driven Chemistry and Nanofracture**. _Southern University of Science and Technology Thematic Seminar_, Virtual, 2025 (_invited seminar_) | [Slides (PDF)](/files/slides_SUSTech2025.pdf). 
+</p>
+  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
+    <summary style="font-size: 1em;"><strong> Abstract</strong></summary>
+    <p style="margin-bottom: 0.4em">
+      Solid interfaces are ubiquitous in machinery, materials, and devices. From nanoscale to macroscale, friction, wear, and fracture at such interfaces contribute significantly to energy loss and component failure. On the other hand, unique interfacial phenomena observed on nano-/microscales offer exciting opportunities for unexpected discoveries and technologies addressing global challenges in energy efficiency, environmental sustainability, materials manufacturing, and innovative nano-/microdevices. In this talk, I will present three interrelated topics from my recent research: (1) structural superlubricity (achieving near-zero friction without the need for lubricants), including how interesting mechanical behaviors emerge on the microscale when friction is nearly zero, how edges limit superlubricity, and how defects cause its failure; (2) mechanochemistry (driving and controlling chemical reactions with interfacial forces), including a new insight from combining mechanochemistry with contact mechanics, how it enables reliable reaction kinetics measurements, and its application to in-situ formation of anti-wear coatings and to chemical reactions that constrain the lifetime of nano-electro-mechanical switches; and (3) nanofracture of layered materials, studied using atomic force microscopes, revealing graphene’s fracture anisotropy and mechanochemically-governed fracture initiation. Finally, I will discuss the implications from these fundamental studies, the limitations of the current work, and challenges to address in future research.
+    </p>
+  </details>
+
   
 <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
@@ -52,10 +64,15 @@ redirect_from:
   **Friction Origin and Characterization of a Superlubric Graphite Contact** _Vienna Virtual Materials Tribology Workshop_, Virtual, 2021 (_Invited Seminar_) | [Recording (YouTube)](https://www.youtube.com/watch?v=dEcWYFSiAWU&t=13s)
   </p>
 
+
+<!--
+
 <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
-  **Rotational Instability of Superlubric Joints & Its Implication on Superlubric Devices**. _25th International Congress of Theoretical and Applied Mechanics (ICTAM)_, Virtual, 2021 | [Slides (PDF)](/files/slides_ICTAM2021.pdf)
+  **Rotational Instability of Superlubric Joints & Its Implication on Superlubric Devices**. _25th International Congress of Theoretical and Applied Mechanics (ICTAM)_, Virtual, 2021 | [Recording (MP4)](/files/recording_ICTAM2021.mp4)
 </p>
+
+-->
 
 
 
