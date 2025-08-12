@@ -27,7 +27,7 @@ redirect_from:
 
 <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
-  **Contact Mechanics Correction of Activation Volume in Mechanochemistry**. _Gordon Research Conference on Tribology_, Lewiston, ME, 2024 (_Selected early-carrer presenter for main conference talk_) | [Slides (PDF)](/files/CV_Cangyu Qu.pdf)
+  **Contact Mechanics Correction of Activation Volume in Mechanochemistry**. _Gordon Research Conference on Tribology_, Lewiston, ME, 2024 (_Selected early-carrer presenter for main conference talk_) | [Slides (PDF)](/files/slides_GRC2024.pdf)
 </p>
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Abstract</strong></summary>
@@ -38,7 +38,7 @@ redirect_from:
 
 <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
-  **Durability of Materials for Nanoelectromechanical Switches Studied by Scanning Probe Microscopy**. _Society for Tribologists and Lubrication Engineers (STLE) Annual Meeting_, Long Beach, CA, 2023 | [Slides (PDF)](/files/CV_Cangyu Qu.pdf)
+  **Durability of Materials for Nanoelectromechanical Switches Studied by Scanning Probe Microscopy**. _Society for Tribologists and Lubrication Engineers (STLE) Annual Meeting_, Long Beach, CA, 2023 | [Slides (PDF)](/files/slides_STLE2023.pdf)
   </p>
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Abstract</strong></summary>
@@ -54,7 +54,7 @@ redirect_from:
 
 <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
-  **Rotational Instability of Superlubric Joints & Its Implication on Superlubric Devices**. _25th International Congress of Theoretical and Applied Mechanics (ICTAM)_, Virtual, 2021 | [Slides (PDF)](/files/CV_Cangyu Qu.pdf)
+  **Rotational Instability of Superlubric Joints & Its Implication on Superlubric Devices**. _25th International Congress of Theoretical and Applied Mechanics (ICTAM)_, Virtual, 2021 | [Slides (PDF)](/files/slides_ICTAM2021.pdf)
 </p>
 
 
